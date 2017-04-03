@@ -11,5 +11,6 @@
   [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows)
 
 ### Get shadowsocks container
-  [oddrationale](https://hub.docker.com/r/oddrationale/docker-shadowsocks/)
-  [mrjin](https://hub.docker.com/r/mrjin/shadowsocks/)
+  - [oddrationale](https://hub.docker.com/r/oddrationale/docker-shadowsocks/)
+  - [mrjin](https://hub.docker.com/r/mrjin/shadowsocks/)
+  - [tommylau](https://hub.docker.com/r/tommylau/shadowsocks/)
