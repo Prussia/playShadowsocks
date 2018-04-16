@@ -14,7 +14,7 @@
   - [oddrationale](https://hub.docker.com/r/oddrationale/docker-shadowsocks/)
   - [mrjin](https://hub.docker.com/r/mrjin/shadowsocks/)
   - [tommylau](https://hub.docker.com/r/tommylau/shadowsocks/)
-### google cloud with bbr
+### Used on Google Cloud with BBR
 ```
 wget –no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh
 chmod +x bbr.sh
