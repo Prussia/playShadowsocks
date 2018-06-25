@@ -1,7 +1,8 @@
 # playShadowsocks
 
 ### install shadowsockX on OSX
-  
+
+  [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG/releases) or 
   ```
   $ brew cask install shadowsocksx
   ```
