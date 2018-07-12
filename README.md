@@ -15,7 +15,7 @@
   - [oddrationale](https://hub.docker.com/r/oddrationale/docker-shadowsocks/)
   - [mrjin](https://hub.docker.com/r/mrjin/shadowsocks/)
   - [tommylau](https://hub.docker.com/r/tommylau/shadowsocks/)
-### Used on Google Cloud with BBR
+### Used on Google Cloud with BBR in Ubuntu 16.04.4 LTS (GNU/Linux 4.13.0-1019-gcp x86_64)
 ```
 wget –no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh
 chmod +x bbr.sh
@@ -29,13 +29,13 @@ sudo vi /etc/ss-conf.json
 ```
 ```
 {
-“server”:”0.0.0.0”,
-“server_port”:8888,
-“local_address”:”127.0.0.1”,
-“local_port”:1080,
-“password”:”XXXXX”,
-“timeout”:600,
-“method”:”aes-256-cfb”
+"server":"0.0.0.0",
+"server_port":8888,
+"local_address":"127.0.0.1",
+"local_port":1080,
+"password":"phu021",
+"timeout":600,
+"method":"aes-256-cfb"
 }
 ```
 ```
