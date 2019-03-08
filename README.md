@@ -15,6 +15,7 @@
   - [oddrationale](https://hub.docker.com/r/oddrationale/docker-shadowsocks/)
   - [mrjin](https://hub.docker.com/r/mrjin/shadowsocks/)
   - [tommylau](https://hub.docker.com/r/tommylau/shadowsocks/)
+  - [go-shadowsocks2](https://hub.docker.com/r/justcy/go-shadowsocks2)
 ### Used on Google Cloud with BBR in Ubuntu 16.04.4 LTS (GNU/Linux 4.13.0-1019-gcp x86_64)
 ```
 wget –no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh
